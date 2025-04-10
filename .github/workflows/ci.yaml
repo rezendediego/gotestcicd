@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: rezendediego/gotestcicd:latest 
+          tags: rezendediegosofteng/gotestcicd:latest 
